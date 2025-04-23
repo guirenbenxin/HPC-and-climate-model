@@ -14,15 +14,6 @@ The project code and related resources are archived on Zenodo with the DOI: `10.
 
 ## Installation Guide
 
-### Environment Requirements
-
-- **Operating System**: Ubuntu 20.04
-- **Software Dependencies**:
-  - ROCm DTK22.04.2
-  - MPI, OpenMP, HIP
-  - GCC 9.3 (for compilation)
-- **Hardware Requirements**:
-  - ORISE supercomputing system, equipped with AMD EPYC 7551P CPU (32 cores, 128GB memory) and 4 AMD Vega20 GPUs (16GB memory each).
 
 ### Installation Steps
 
